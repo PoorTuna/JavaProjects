@@ -46,7 +46,7 @@ public class CompareTo
 		
 		
 		
-		String n1 = "THIS IS FOKING DISGOSDING MUN";
+		String n1 = "THIS IS DISGOSDING MUN";
 		
 		n1 = n1.toLowerCase();
 		
