@@ -1,5 +1,5 @@
 
-public class NehamaZona
+public class Nehama
 {
 	private double[] Hgrades = new double[20];
 	private double[] Mgrades = new double[20];
